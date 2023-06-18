@@ -1,0 +1,1 @@
+# This is a comment created at the time of creating dir B
