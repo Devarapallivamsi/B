@@ -2,3 +2,8 @@
 
 for i in "Github":
     print(i)
+
+
+
+for j  in "vamsi":
+    print(j)
